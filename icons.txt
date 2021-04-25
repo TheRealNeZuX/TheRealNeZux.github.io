@@ -1,0 +1,6 @@
+telegram
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="2.5" stroke="#CACBD2" fill="none" class="duration-300 transform transition-all" style="width: 48px; height: 48px;"><path d="M26.67 38.57l-.82 11.54A2.88 2.88 0 0028.14 49l5.5-5.26 11.42 8.35c2.08 1.17 3.55.56 4.12-1.92l7.49-35.12h0c.66-3.09-1.08-4.33-3.16-3.55l-44 16.85C6.47 29.55 6.54 31.23 9 32l11.26 3.5 25.33-14.79c1.23-.83 2.36-.37 1.44.44z" stroke-linecap="round"></path></svg>
+instagram
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="2.5" stroke="#CACBD2" fill="none" class="duration-300 transform transition-all" style="width: 48px; height: 48px;"><rect x="13.8" y="13.02" width="36.4" height="37.97" rx="10.53" stroke-linecap="round"></rect><circle cx="32" cy="32" r="9.28" stroke-linecap="round"></circle><circle cx="43.11" cy="19.74" r="1.32"></circle></svg>
+youtube
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke-width="2.5" stroke="#CACBD2" fill="none" class="duration-300 transform transition-all" style="width: 48px; height: 48px;"><path d="M26.5 39.88V24.12a.37.37 0 01.56-.31l12.4 7.88a.36.36 0 010 .62l-12.4 7.88a.37.37 0 01-.56-.31z"></path><rect x="6.46" y="14.42" width="51.09" height="35.16" rx="9.06"></rect></svg>
