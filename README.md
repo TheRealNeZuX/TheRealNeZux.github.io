@@ -1,2 +1,2 @@
-I stole this code, for view result go here: https://therealnezux.github.io/
+I stole this code, to view result go here: https://therealnezux.github.io/
 =)
